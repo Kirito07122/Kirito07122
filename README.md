@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kirito07122
+- 👋 Hi, I’m @Om Ahrodia
 - 👀 I’m interested in progamming.
 - 🌱 I’m currently learning MERN stack & solving DSA problems.
 - 💞️ I’m looking to collaborate on software development & web development.
